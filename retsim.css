@@ -1,0 +1,187 @@
+body {
+	font-family: Arial;
+	background: #f0f0f0;
+}
+
+#debug {
+	background: #a0f0ff;
+}
+
+#addtoany {
+	float: right;
+}
+
+#facebookDiv {
+	float: right;
+}
+
+#byline {
+	padding: 20px;
+	font-size: .7em;
+}
+
+a {
+	color: blue;
+}
+
+h1 {
+	color: #FF9A00;
+}
+
+input[type="submit"] {
+	background: lightblue;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+input[type="submit"]:hover {
+	background: #48d;
+	cursor: pointer;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.titleLetter {
+	font-size: 1.2em;
+}
+
+#title {
+	background-color: white;
+	height: 60px;
+	padding: 10px;
+	color: green;
+	font-weight: bold;
+	font-size: 3.0em;
+	margin-bottom: 0px;
+}
+
+#ieSucks {
+	background: red;
+	border: solid 2px;
+	border-color: black;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.fieldLabel {
+	text-align: right;
+	width: 50%;
+}
+
+.paramsTable {
+	background: #d0d0e0;
+	padding: 6px;
+	border-radius: 5px;
+	box-shadow: 15px 15px 15px #444;
+	margin-right: 20px;
+	margin-bottom: 24px;
+}
+
+.paramsTable th, .paramsTable td {
+	border-width: 1px;
+	border-style: solid;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.paramsTable .download-icon {
+	margin-top: 26px;
+}
+
+.download-icon {
+	height: 20px;
+	padding: 6px;
+	background-color: green;
+	border-radius: 20px;
+	margin-right: 5px;
+	box-shadow: 5px 5px 5px #444;
+}
+
+.download-icon:hover {
+	background-color: #2a2;
+}
+
+.help-icon {
+	height: 24px;
+	top: 0px !important;
+	text-align: center;
+	float: none !important;
+}
+
+.paramsTable th img {
+	float: right;
+	top: -35px;
+	position: relative;
+}
+
+#chart {
+	width: 500px;
+	height: 300px;
+}
+
+#incomeAndExpensesChart {
+	width: 500px;
+	height: 300px;
+}
+
+#chartParams {
+	padding: 0px;
+	text-align: left;
+}
+
+.chartAndTitle {
+	background: white;
+	margin: 10px;
+	padding: 4px;
+	border: black;
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 15px 15px 15px #444;
+	border-radius: 5px;
+}
+
+#zeroYearMessage {
+	text-align: center;
+	font-weight: bold;
+}
+
+#explanation {
+	padding: 12px;
+}
+
+#facebookFrame {
+	border: none;
+	width: 200px;
+	height: 80px;
+	margin-left: 10px;
+}
+
+#paramsTd {
+	width: 400px;
+}
+
+#linkDiv {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+a.a2a_dd {
+	color: white;
+}
+
+/*
+tspan {
+	display: none;	
+}
+*/
+
+.paramsTable input[type="checkbox"] {
+	margin-left: 40%;
+}
+
+.subtitle {
+	font-weight: normal;
+	font-size: 14px;
+}
